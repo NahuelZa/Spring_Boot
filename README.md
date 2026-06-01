@@ -20,8 +20,8 @@ Para ejecutar este proyecto localmente, asegúrate de tener instalado:
 ## 🚀 Cómo ejecutar el proyecto
 
 1. Clona el repositorio: git clone [https://github.com/NahuelZa/Spring_Boot.git](https://github.com/NahuelZa/Spring_Boot.git)
-2. Navega a la carpeta del proyecto:
-   cd Spring_Boot
-3.Ejecuta la aplicación:
+2. Navega a la carpeta del proyecto: cd Spring_Boot
+3. Ejecuta la aplicación:
    ./gradlew bootRun
+
    
