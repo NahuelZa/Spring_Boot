@@ -7,7 +7,7 @@
 * **Java 17** (o la versión que estés usando)
 * **Spring Boot 3**
 * **Spring Data JPA** - Para la gestión de la base de datos.
-* **Maven** - Gestión de dependencias.
+* **Gradle** - Gestión de dependencias.
 * **H2 / MySQL / MongoDB** - (Elige la que estés usando actualmente).
 
 ## 📋 Requisitos Previos
